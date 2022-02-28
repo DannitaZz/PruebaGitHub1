@@ -1,1 +1,2 @@
-console.log('Hola');
+const saludo = 'Git Flow';
+console.log('Hola', saludo);
